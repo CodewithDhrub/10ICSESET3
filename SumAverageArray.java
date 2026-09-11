@@ -1,3 +1,14 @@
+/*
+sum = sum + a[i]
+average = sum / n
+OUTPUT==>
+Enter number of elements: 5
+Enter 5 elements:
+10 20 30 40 50
+Sum = 150
+Average = 30.0
+*/
+
 import java.util.*;
 
 class ArrayAverage
