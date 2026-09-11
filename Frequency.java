@@ -1,3 +1,11 @@
+/*
+Array:
+10 20 10 30 10 40
+Search:
+10
+Frequency = 3
+*/
+
 import java.util.*;
 
 class Frequency
