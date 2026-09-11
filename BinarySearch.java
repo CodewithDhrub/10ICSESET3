@@ -80,3 +80,14 @@ class BinarySearchDemo
         ob.display();
     }
 }
+
+/*
+Remember:
+mid = (low + high) / 2;
+if
+search > a[mid]
+then
+low = mid + 1;
+else
+high = mid - 1;
+*/
