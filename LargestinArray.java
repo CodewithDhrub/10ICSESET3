@@ -1,3 +1,9 @@
+/*
+OUTPUT AT THE END.
+Remember:
+largest = a[0];
+for(int i = 1; i < n; i++)
+*/
 import java.util.*;
 
 class Largest
